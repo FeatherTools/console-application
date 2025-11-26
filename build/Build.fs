@@ -19,8 +19,8 @@ let main args =
 
     Targets.init {
         Project = {
-            Name = "Feather.Library"
-            Summary = "Library template"
+            Name = "Feather.ConsoleApplication"
+            Summary = "The Console application eases the creation of beautiful and testable command line interfaces in F#."
             Git = Git.init ()
         }
         Specs =
