@@ -1,5 +1,4 @@
-Console Application
-===================
+# <img src="https://github.com/FeatherTools/.github/blob/main/profile/feather-logo-200.png" alt="FeatherTools Logo" width="100" height="100"> Console Application
 
 [![NuGet](https://img.shields.io/nuget/v/Feather.ConsoleApplication.svg)](https://www.nuget.org/packages/Feather.ConsoleApplication)
 [![NuGet Downloads](https://img.shields.io/nuget/dt/Feather.ConsoleApplication.svg)](https://www.nuget.org/packages/Feather.ConsoleApplication)
